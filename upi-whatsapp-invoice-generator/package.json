@@ -1,0 +1,12 @@
+{
+  "name": "bharatpos",
+  "version": "1.0.0",
+  "description": "Smart POS and WhatsApp / UPI Invoice Generator for India",
+  "main": "index.html",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}

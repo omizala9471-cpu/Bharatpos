@@ -1,0 +1,128 @@
+[
+    {
+        "Timestamp":  "2026-06-16T11:37:02Z",
+        "Status":  "SUCCESS",
+        "LoadTimeMs":  29,
+        "Errors":  [
+
+                   ]
+    },
+    {
+        "Timestamp":  "2026-06-16T12:36:02Z",
+        "Status":  "FAILURE",
+        "LoadTimeMs":  35,
+        "Errors":  [
+                       "Failed to reach CDN: https://cdn.jsdelivr.net/npm/hash-wasm@4.11.0/dist/argon2.umd.min.js (The operation has timed out.)",
+                       "Failure screenshot saved to: error_screenshot_20260616_123611.png"
+                   ]
+    },
+    {
+        "Timestamp":  "2026-06-16T16:36:02Z",
+        "Status":  "SUCCESS",
+        "LoadTimeMs":  48,
+        "Errors":  [
+
+                   ]
+    },
+    {
+        "Timestamp":  "2026-06-16T17:51:01Z",
+        "Status":  "SUCCESS",
+        "LoadTimeMs":  27,
+        "Errors":  [
+
+                   ]
+    },
+    {
+        "Timestamp":  "2026-06-16T18:21:01Z",
+        "Status":  "SUCCESS",
+        "LoadTimeMs":  31,
+        "Errors":  [
+
+                   ]
+    },
+    {
+        "Timestamp":  "2026-06-16T18:36:01Z",
+        "Status":  "SUCCESS",
+        "LoadTimeMs":  32,
+        "Errors":  [
+
+                   ]
+    },
+    {
+        "Timestamp":  "2026-06-17T10:20:18Z",
+        "Status":  "FAILURE",
+        "LoadTimeMs":  109,
+        "Errors":  [
+                       "Failed to reach CDN: https://unpkg.com/lucide@latest (The remote server returned an error: (403) Forbidden.)",
+                       "Failed to reach CDN: https://cdnjs.cloudflare.com/ajax/libs/qrious/4.0.2/qrious.min.js (The remote server returned an error: (403) Forbidden.)",
+                       "Failed to reach CDN: https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js (The remote server returned an error: (403) Forbidden.)",
+                       "Failed to reach CDN: https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js (The remote server returned an error: (403) Forbidden.)",
+                       "Failed to reach CDN: https://cdn.jsdelivr.net/npm/hash-wasm@4.11.0/dist/argon2.umd.min.js (The remote server returned an error: (403) Forbidden.)",
+                       "Failure screenshot saved to: error_screenshot_20260617_102023.png"
+                   ]
+    },
+    {
+        "Timestamp":  "2026-06-17T10:36:02Z",
+        "Status":  "SUCCESS",
+        "LoadTimeMs":  25,
+        "Errors":  [
+
+                   ]
+    },
+    {
+        "Timestamp":  "2026-06-17T10:51:02Z",
+        "Status":  "SUCCESS",
+        "LoadTimeMs":  28,
+        "Errors":  [
+
+                   ]
+    },
+    {
+        "Timestamp":  "2026-06-17T11:06:02Z",
+        "Status":  "SUCCESS",
+        "LoadTimeMs":  14,
+        "Errors":  [
+
+                   ]
+    },
+    {
+        "Timestamp":  "2026-06-17T11:09:09Z",
+        "Status":  "SUCCESS",
+        "LoadTimeMs":  81,
+        "Errors":  [
+
+                   ]
+    },
+    {
+        "Timestamp":  "2026-06-17T11:21:01Z",
+        "Status":  "SUCCESS",
+        "LoadTimeMs":  95,
+        "Errors":  [
+
+                   ]
+    },
+    {
+        "Timestamp":  "2026-06-17T11:36:01Z",
+        "Status":  "SUCCESS",
+        "LoadTimeMs":  64,
+        "Errors":  [
+
+                   ]
+    },
+    {
+        "Timestamp":  "2026-06-17T11:51:01Z",
+        "Status":  "SUCCESS",
+        "LoadTimeMs":  57,
+        "Errors":  [
+
+                   ]
+    },
+    {
+        "Timestamp":  "2026-06-17T12:06:02Z",
+        "Status":  "SUCCESS",
+        "LoadTimeMs":  94,
+        "Errors":  [
+
+                   ]
+    }
+]

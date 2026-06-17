@@ -1,0 +1,18 @@
+{
+  "name": "BharatPOS - Smart POS & Invoicing",
+  "short_name": "BharatPOS",
+  "description": "Smart local-first POS billing desk with integrated UPI QR codes and WhatsApp invoices.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#040a0c",
+  "theme_color": "#009b9e",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "bharatpos_logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
